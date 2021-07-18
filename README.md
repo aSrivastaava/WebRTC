@@ -13,7 +13,6 @@
 * Few more thing.....
 
 ## Overview
-#
 * Stands for Web Real-Time Communication
 * Find a peer to peer to exchange video and audio in an efficient and low latency manner
 * Standardized API 
@@ -37,7 +36,6 @@
 ![Overview Example](images/overview_2.PNG)
 
 ## WebRTC Demystified
-#
 * ## NAT - Network Address Translation
 
 ![NAT Explaination](images/NAT_1.gif)
