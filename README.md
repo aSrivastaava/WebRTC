@@ -32,15 +32,15 @@
    *  A connects to B via the most optimal path.
    * A & B also exchanges their supported media and security.
 
-![Overview Example](images\overview_1.PNG)
+![Overview Example](images/overview_1.PNG)
 ### Once they find the way:
-![Overview Example](images\overview_2.PNG)
+![Overview Example](images/overview_2.PNG)
 
 ## WebRTC Demystified
 #
 * ## NAT - Network Address Translation
 
-![NAT Explaination](images\NAT_1.gif)
+![NAT Explaination](images/NAT_1.gif)
 
 * ## NAT Translations Methods
     * One to One NAT (Full-cone NAT
@@ -52,7 +52,7 @@
     ### One to One NAT (Full cone NAT)
     * Packets to external IP:port on the router alwasys maps to internal IP:port without exceptions.
 
-    ![Full cone NAT](images\NAT_2.png)
+    ![Full cone NAT](images/NAT_2.png)
     ### Example:
-    ![Full cone NAT](images\NAT_3.gif)
+    ![Full cone NAT Example](images/NAT_3.gif)
 
