@@ -52,7 +52,7 @@
     ### One to One NAT (Full cone NAT)
     * Packets to external IP:port on the router alwasys maps to internal IP:port without exceptions.
 
-    ![Full cone NAT](images/NAT_2.png)
+    ![Full cone NAT](images/NAT_2.PNG)
     ### Example:
     ![Full cone NAT Example](images/NAT_3.gif)
 
